@@ -10,6 +10,7 @@ body {
 }
 
 .hover_row:hover {
-  background-color: aqua;
+  background-color: goldenrod;
   color: #000000;
 }
+
